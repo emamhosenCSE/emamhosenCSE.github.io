@@ -5,13 +5,17 @@ const experienceContent = [
     year: "Nov 2021 – Present",
     position: "IT Executive",
     compnayName: "Dhaka Bypass Expressway Development Co. Ltd",
-    details: `Oversaw IT infrastructure for the Intelligent Traffic System (ITS), including sensor integration, traffic data acquisition, and system uptime. Maintained hardware/software, provided tech support, and implemented performance enhancements. Developed and managed a full-scale ERP system (finance, HR, inventory, ops), administered DNS and Exchange servers, led IT monitoring/reporting, and managed cybersecurity, documentation, and disaster recovery readiness.`,
+    details: `Oversaw IT infrastructure for the Intelligent Traffic System (ITS), including sensor integration, traffic data acquisition, and system uptime.\n
+    Maintained hardware/software, provided tech support, and implemented performance enhancements.\n
+    Developed and managed a full-scale ERP system (finance, HR, inventory, ops), administered DNS and Exchange servers, led IT monitoring/reporting, and managed cybersecurity, documentation, and disaster recovery readiness.`,
   },
   {
     year: "Jul 2020 – Oct 2021",
     position: "IT Executive",
     compnayName: "bKash Limited",
-    details: `Managed IT operations, procurement, and infrastructure upgrades. Delivered cross-department tech support, analyzed financial data for patterns and anomalies, and ensured transactional accuracy. Supported backend systems and dashboards, collaborated with operations/risk teams, and enhanced system availability and operational insights.`,
+    details: `Managed IT operations, procurement, and infrastructure upgrades.\n
+    Delivered cross-department tech support, analyzed financial data for patterns and anomalies, and ensured transactional accuracy.\n
+    Supported backend systems and dashboards, collaborated with operations/risk teams, and enhanced system availability and operational insights.`,
   },
 ];
 
